@@ -1,0 +1,16 @@
+body{
+    background-color: #20354b;
+    /* margin-top:5%; */
+}
+.image{
+    margin-left: 20%;
+    margin-bottom: 5%;
+}
+.mono{
+    font-weight: bold;
+}
+.Hangman{
+    width: 80%;
+    margin-top:50px;
+    color:white;
+}
